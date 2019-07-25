@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assignment" duration-ms="62625" started-at="2019-07-25T14:09:38Z" finished-at="2019-07-25T14:10:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62625" started-at="2019-07-25T14:09:38Z" finished-at="2019-07-25T14:10:40Z">
+      <class name="tests.SignInValidation">
+        <test-method status="PASS" signature="Openbrowser()[pri:0, instance:tests.SignInValidation@5622fdf]" name="Openbrowser" is-config="true" duration-ms="45836" started-at="2019-07-25T10:09:38Z" finished-at="2019-07-25T10:10:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openbrowser -->
+        <test-method status="PASS" signature="VerifySignInN()[pri:0, instance:tests.SignInValidation@5622fdf]" name="VerifySignInN" duration-ms="13970" started-at="2019-07-25T10:10:24Z" finished-at="2019-07-25T10:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignInN -->
+        <test-method status="PASS" signature="Closer()[pri:0, instance:tests.SignInValidation@5622fdf]" name="Closer" is-config="true" duration-ms="2538" started-at="2019-07-25T10:10:38Z" finished-at="2019-07-25T10:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closer -->
+      </class> <!-- tests.SignInValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Assignment -->
+</testng-results>

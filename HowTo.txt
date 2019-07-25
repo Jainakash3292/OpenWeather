@@ -1,0 +1,30 @@
+This Project is to Automate OpenWeather Web Site.
+
+Technology used: Selenium 3.7
+programming Language used: Java
+Java Version :1.8
+
+Automation Frameword Used: TestNG
+Approach Used: POM
+
+System Prerequisite: Windows 7+, Java 1.8.
+ 
+Folder Description: 
+
+Pages :Pages folder  contains java classes. Each java class belong to Specific webpage, and each java class contains all the locatores present on the webpage for which java class is created.
+
+Setup:  Setup folder contains all the files which helps us to Execute test cases.
+
+tests: tests folder contains java classes. Each java classes have run methods(testcase) specific to Webpage.
+
+resources: it can contains files related to test data.
+
+test-outout: this folder contains results.
+
+Pom.xml: since this is Maven project, Pom.xml contains Dependency so as NOT to make project Machine Specific.
+
+TestNg.xml: this file contains TestSuite,test classes that Need to be Executed.
+
+HOW TO RUN PROJECT:
+
+Open project in Eclipese, and right click on TestNG File, and select Run as -> TestNG Suite.
